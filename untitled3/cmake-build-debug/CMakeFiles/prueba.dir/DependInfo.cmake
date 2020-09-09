@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/aureb/CLionProjects/untitled3/Comida.cpp" "C:/Users/aureb/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/prueba.dir/Comida.cpp.obj"
   "C:/Users/aureb/CLionProjects/untitled3/Corazon.cpp" "C:/Users/aureb/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/prueba.dir/Corazon.cpp.obj"
+  "C:/Users/aureb/CLionProjects/untitled3/Puntuaciones.cpp" "C:/Users/aureb/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/prueba.dir/Puntuaciones.cpp.obj"
   "C:/Users/aureb/CLionProjects/untitled3/homer.cpp" "C:/Users/aureb/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/prueba.dir/homer.cpp.obj"
   "C:/Users/aureb/CLionProjects/untitled3/main.cpp" "C:/Users/aureb/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/prueba.dir/main.cpp.obj"
   )

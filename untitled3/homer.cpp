@@ -6,9 +6,9 @@
 
 
 homer::homer(Texture &tex){
-    vel = 20;
-    x = 0;
-    y = 540 - (tex.getSize().y);
+    vel = 4;
+    x = 420;
+    y = 180;
     sp.setTexture(tex);
 }
 

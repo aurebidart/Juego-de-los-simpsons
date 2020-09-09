@@ -196,6 +196,33 @@ Corazon.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\prueba.dir\build.make CMakeFiles/prueba.dir/Corazon.cpp.s
 .PHONY : Corazon.cpp.s
 
+Puntuaciones.obj: Puntuaciones.cpp.obj
+
+.PHONY : Puntuaciones.obj
+
+# target to build an object file
+Puntuaciones.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\prueba.dir\build.make CMakeFiles/prueba.dir/Puntuaciones.cpp.obj
+.PHONY : Puntuaciones.cpp.obj
+
+Puntuaciones.i: Puntuaciones.cpp.i
+
+.PHONY : Puntuaciones.i
+
+# target to preprocess a source file
+Puntuaciones.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\prueba.dir\build.make CMakeFiles/prueba.dir/Puntuaciones.cpp.i
+.PHONY : Puntuaciones.cpp.i
+
+Puntuaciones.s: Puntuaciones.cpp.s
+
+.PHONY : Puntuaciones.s
+
+# target to generate assembly for a file
+Puntuaciones.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\prueba.dir\build.make CMakeFiles/prueba.dir/Puntuaciones.cpp.s
+.PHONY : Puntuaciones.cpp.s
+
 homer.obj: homer.cpp.obj
 
 .PHONY : homer.obj
@@ -265,6 +292,9 @@ help:
 	@echo ... Corazon.obj
 	@echo ... Corazon.i
 	@echo ... Corazon.s
+	@echo ... Puntuaciones.obj
+	@echo ... Puntuaciones.i
+	@echo ... Puntuaciones.s
 	@echo ... homer.obj
 	@echo ... homer.i
 	@echo ... homer.s

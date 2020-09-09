@@ -5,7 +5,7 @@
 #include "Comida.h"
 
 Comida::Comida() {
-    vel = 1;
+    vel = 1.5;
     x = 150;
     y = 0;
 }

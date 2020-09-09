@@ -94,6 +94,12 @@
 		<Unit filename="C:/Users/aureb/CLionProjects/untitled3/Corazon.h">
 			<Option target="prueba"/>
 		</Unit>
+		<Unit filename="C:/Users/aureb/CLionProjects/untitled3/Puntuaciones.cpp">
+			<Option target="prueba"/>
+		</Unit>
+		<Unit filename="C:/Users/aureb/CLionProjects/untitled3/Puntuaciones.h">
+			<Option target="prueba"/>
+		</Unit>
 		<Unit filename="C:/Users/aureb/CLionProjects/untitled3/homer.cpp">
 			<Option target="prueba"/>
 		</Unit>

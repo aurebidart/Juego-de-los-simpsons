@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/prueba.dir/Comida.cpp.obj"
   "CMakeFiles/prueba.dir/Corazon.cpp.obj"
+  "CMakeFiles/prueba.dir/Puntuaciones.cpp.obj"
   "CMakeFiles/prueba.dir/homer.cpp.obj"
   "CMakeFiles/prueba.dir/main.cpp.obj"
   "libprueba.dll.a"

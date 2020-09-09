@@ -22,6 +22,10 @@ SFML/Audio.hpp
 SFML/Graphics.hpp
 -
 
+C:/Users/aureb/CLionProjects/untitled3/Puntuaciones.h
+iostream
+-
+
 C:/Users/aureb/CLionProjects/untitled3/homer.h
 ctime
 -
@@ -35,9 +39,13 @@ ctime
 -
 iostream
 -
+fstream
+-
 SFML/Audio.hpp
 -
 SFML/Graphics.hpp
+-
+string
 -
 homer.h
 C:/Users/aureb/CLionProjects/untitled3/homer.h
@@ -45,4 +53,6 @@ Comida.h
 C:/Users/aureb/CLionProjects/untitled3/Comida.h
 Corazon.h
 C:/Users/aureb/CLionProjects/untitled3/Corazon.h
+Puntuaciones.h
+C:/Users/aureb/CLionProjects/untitled3/Puntuaciones.h
 
