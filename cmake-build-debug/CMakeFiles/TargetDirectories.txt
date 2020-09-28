@@ -1,0 +1,3 @@
+C:/Users/aureb/CLionProjects/Juego-de-los-simpsons-1.3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aureb/CLionProjects/Juego-de-los-simpsons-1.3/cmake-build-debug/CMakeFiles/prueba.dir
+C:/Users/aureb/CLionProjects/Juego-de-los-simpsons-1.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
