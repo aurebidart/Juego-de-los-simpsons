@@ -1,1 +1,0 @@
-# Juego-de-los-simpsons
