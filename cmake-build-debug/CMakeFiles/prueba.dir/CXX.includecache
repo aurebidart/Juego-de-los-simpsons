@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rodolfo/Desktop/juegooo/homer.cpp
+homer.h
+C:/Users/Rodolfo/Desktop/juegooo/homer.h
+
+C:/Users/Rodolfo/Desktop/juegooo/homer.h
+ctime
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+
