@@ -1,0 +1,106 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Comida.cpp
+Comida.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Comida.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Comida.h
+ctime
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Corazon.cpp
+Corazon.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Corazon.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Corazon.h
+ctime
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+
+C:/Users/Rodolfo/Downloads/Juego para subir/LinkedList.cpp
+iostream
+-
+LinkedList.h
+C:/Users/Rodolfo/Downloads/Juego para subir/LinkedList.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/LinkedList.h
+Node.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Node.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Node.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Puntuaciones.cpp
+Puntuaciones.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Puntuaciones.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/Puntuaciones.h
+iostream
+-
+
+C:/Users/Rodolfo/Downloads/Juego para subir/basura.cpp
+basura.h
+C:/Users/Rodolfo/Downloads/Juego para subir/basura.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/basura.h
+ctime
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+
+C:/Users/Rodolfo/Downloads/Juego para subir/homer.cpp
+homer.h
+C:/Users/Rodolfo/Downloads/Juego para subir/homer.h
+
+C:/Users/Rodolfo/Downloads/Juego para subir/homer.h
+ctime
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+
+C:/Users/Rodolfo/Downloads/Juego para subir/main.cpp
+queue
+-
+stack
+-
+ctime
+-
+iostream
+-
+fstream
+-
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+string
+-
+LinkedList.h
+C:/Users/Rodolfo/Downloads/Juego para subir/LinkedList.h
+homer.h
+C:/Users/Rodolfo/Downloads/Juego para subir/homer.h
+Comida.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Comida.h
+Corazon.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Corazon.h
+Puntuaciones.h
+C:/Users/Rodolfo/Downloads/Juego para subir/Puntuaciones.h
+basura.h
+C:/Users/Rodolfo/Downloads/Juego para subir/basura.h
+
